@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import { useState, useEffect } = 'react';
+import { useState, useEffect } from 'react';
 
 const App = () => {
   const [seconds, setSeconds] = useState(0);
